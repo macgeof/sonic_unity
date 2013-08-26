@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{C9D5B418-86B9-7F0E-3020-93EDD90B77B1}</ProjectGuid>
+    <ProjectGuid>{95596607-DD1E-0B36-01D5-D519A0D560FC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>
@@ -75,11 +75,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{97E8BD4A-D6D0-C1D6-0748-80F71DB852B5}</Project>
+      <Project>{A6C53DE5-62D4-21C9-54FC-4D13D9B946F7}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript.unityproj">
-      <Project>{CB048C53-8170-5901-02C6-A0C75AC2A178}</Project>
+      <Project>{253F5077-BC4D-BE99-1DD6-9A289C294BE6}</Project>
       <Name>Assembly-UnityScript</Name>
     </ProjectReference>
   </ItemGroup>
