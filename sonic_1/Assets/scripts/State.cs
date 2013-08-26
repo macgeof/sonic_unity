@@ -63,7 +63,7 @@ public class State
 		timeInState += __timeDelay;
 	}
 	
-	protected void UpdateMotion(Entity __owner)
+	protected virtual void UpdateMotion(Entity __owner)
 	{
 		switch (__owner.PlayerControlled)
 		{
