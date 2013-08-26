@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/states/sonic/StandStill.cs">
+    <Files>
+      <File FileName="Assets/scripts/states/sonic/Bounce.cs" Line="5" Column="28" />
+      <File FileName="Assets/scripts/PlayerState.cs" Line="52" Column="8" />
+      <File FileName="Assets/scripts/State.cs" Line="55" Column="22" />
+      <File FileName="Assets/scripts/states/sonic/Bored.cs" Line="5" Column="27" />
+      <File FileName="Assets/scripts/states/sonic/BounceSmall.cs" Line="5" Column="33" />
+      <File FileName="Assets/scripts/states/sonic/Crouch.cs" Line="5" Column="28" />
+      <File FileName="Assets/scripts/states/sonic/Die.cs" Line="5" Column="25" />
+      <File FileName="Assets/scripts/states/sonic/Drown.cs" Line="5" Column="27" />
+      <File FileName="Assets/scripts/states/sonic/Fall.cs" Line="5" Column="26" />
+      <File FileName="Assets/scripts/states/sonic/Hit.cs" Line="5" Column="25" />
+      <File FileName="Assets/scripts/states/sonic/LookUp.cs" Line="5" Column="28" />
+      <File FileName="Assets/scripts/states/sonic/Run.cs" Line="5" Column="25" />
+      <File FileName="Assets/scripts/states/sonic/RunFast.cs" Line="5" Column="29" />
+      <File FileName="Assets/scripts/states/sonic/Spin.cs" Line="5" Column="26" />
+      <File FileName="Assets/scripts/states/sonic/SpinDash.cs" Line="5" Column="30" />
+      <File FileName="Assets/scripts/states/sonic/StandAnim.cs" Line="5" Column="31" />
+      <File FileName="Assets/scripts/states/sonic/StandStill.cs" Line="20" Column="1" />
+      <File FileName="Assets/scripts/states/sonic/Walk.cs" Line="5" Column="26" />
+      <File FileName="Assets/scripts/Sonic.cs" Line="11" Column="28" />
+      <File FileName="Assets/scripts/Main.cs" Line="42" Column="20" />
+      <File FileName="Assets/scripts/EntityManager.cs" Line="103" Column="1" />
+      <File FileName="Assets/scripts/Entity.cs" Line="45" Column="1" />
+      <File FileName="Assets/scripts/StateEngine.cs" Line="29" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/geof/Dropbox/gaming/dad/unity/sonic_project/Assets/scripts/states/sonic/StandStill.cs" line="18" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -4,1136 +4,681 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>Sonic_01.png</key>
+            <key>01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1,1},{64,64}}</string>
+                <string>{{0,0},{29,39}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{29,39}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{29,39}</string>
             </dict>
-            <key>Sonic_02.png</key>
+            <key>02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{66,1},{64,64}}</string>
+                <string>{{29,0},{30,38}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,38}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,38}</string>
             </dict>
-            <key>Sonic_03.png</key>
+            <key>03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{131,1},{64,64}}</string>
+                <string>{{59,0},{30,38}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,38}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,38}</string>
             </dict>
-            <key>Sonic_04.png</key>
+            <key>04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{196,1},{64,64}}</string>
+                <string>{{89,0},{30,38}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,38}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,38}</string>
             </dict>
-            <key>Sonic_05.png</key>
+            <key>05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{261,1},{64,64}}</string>
+                <string>{{0,39},{29,38}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{29,38}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{29,38}</string>
             </dict>
-            <key>Sonic_06.png</key>
+            <key>06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{326,1},{64,64}}</string>
+                <string>{{29,39},{29,26}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{29,26}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{29,26}</string>
             </dict>
-            <key>Sonic_07.png</key>
+            <key>07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{391,1},{64,64}}</string>
+                <string>{{58,39},{29,38}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{29,38}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{29,38}</string>
             </dict>
-            <key>Sonic_08.png</key>
+            <key>08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1,66},{64,64}}</string>
+                <string>{{87,39},{30,27}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,27}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,27}</string>
             </dict>
-            <key>Sonic_09.png</key>
+            <key>09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{66,66},{64,64}}</string>
+                <string>{{0,77},{30,27}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,27}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,27}</string>
             </dict>
-            <key>Sonic_10.png</key>
+            <key>10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{131,66},{64,64}}</string>
+                <string>{{30,77},{30,27}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,27}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,27}</string>
             </dict>
-            <key>Sonic_11.png</key>
+            <key>11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{196,66},{64,64}}</string>
+                <string>{{60,77},{30,27}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,27}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,27}</string>
             </dict>
-            <key>Sonic_12.png</key>
+            <key>12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{261,66},{64,64}}</string>
+                <string>{{90,77},{30,27}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,27}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,27}</string>
             </dict>
-            <key>Sonic_13.png</key>
+            <key>13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{326,66},{64,64}}</string>
+                <string>{{0,104},{30,30}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,30}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,30}</string>
             </dict>
-            <key>Sonic_14.png</key>
+            <key>14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{391,66},{64,64}}</string>
+                <string>{{30,104},{29,30}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{29,30}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{29,30}</string>
             </dict>
-            <key>Sonic_15.png</key>
+            <key>15.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1,131},{64,64}}</string>
+                <string>{{59,104},{30,29}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,29}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,29}</string>
             </dict>
-            <key>Sonic_16.png</key>
+            <key>16.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{66,131},{64,64}}</string>
+                <string>{{89,104},{29,30}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{29,30}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{29,30}</string>
             </dict>
-            <key>Sonic_17.png</key>
+            <key>17.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{131,131},{64,64}}</string>
+                <string>{{0,134},{30,29}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,29}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,29}</string>
             </dict>
-            <key>Sonic_18.png</key>
+            <key>18.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{196,131},{64,64}}</string>
+                <string>{{30,134},{25,37}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{25,37}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{25,37}</string>
             </dict>
-            <key>Sonic_19.png</key>
+            <key>19.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{261,131},{64,64}}</string>
+                <string>{{55,134},{35,37}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{35,37}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{35,37}</string>
             </dict>
-            <key>Sonic_20.png</key>
+            <key>20.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{326,131},{64,64}}</string>
+                <string>{{90,134},{28,37}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{28,37}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{28,37}</string>
             </dict>
-            <key>Sonic_21.png</key>
+            <key>21.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{391,131},{64,64}}</string>
+                <string>{{0,171},{27,37}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{27,37}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{27,37}</string>
             </dict>
-            <key>Sonic_22.png</key>
+            <key>22.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1,196},{64,64}}</string>
+                <string>{{27,171},{37,37}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{37,37}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{37,37}</string>
             </dict>
-            <key>Sonic_23.png</key>
+            <key>23.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{66,196},{64,64}}</string>
+                <string>{{64,171},{32,38}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{32,38}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{32,38}</string>
             </dict>
-            <key>Sonic_24.png</key>
+            <key>24.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{131,196},{64,64}}</string>
+                <string>{{0,209},{32,36}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{32,36}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{32,36}</string>
             </dict>
-            <key>Sonic_25.png</key>
+            <key>25.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{196,196},{64,64}}</string>
+                <string>{{32,209},{32,35}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{32,35}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{32,35}</string>
             </dict>
-            <key>Sonic_26.png</key>
+            <key>26.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{261,196},{64,64}}</string>
+                <string>{{64,209},{32,36}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{32,36}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{32,36}</string>
             </dict>
-            <key>Sonic_27.png</key>
+            <key>27.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{326,196},{64,64}}</string>
+                <string>{{96,209},{31,35}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{31,35}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{31,35}</string>
             </dict>
-            <key>Sonic_28.png</key>
+            <key>28.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{391,196},{64,64}}</string>
+                <string>{{0,245},{38,32}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{38,32}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{38,32}</string>
             </dict>
-            <key>Sonic_29.png</key>
+            <key>29.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1,261},{64,64}}</string>
+                <string>{{38,245},{39,31}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{39,31}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{39,31}</string>
             </dict>
-            <key>Sonic_30.png</key>
+            <key>30.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{66,261},{64,64}}</string>
+                <string>{{77,245},{39,32}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{39,32}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{39,32}</string>
             </dict>
-            <key>Sonic_31.png</key>
+            <key>31.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{131,261},{64,64}}</string>
+                <string>{{0,277},{39,31}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{39,31}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{39,31}</string>
             </dict>
-            <key>Sonic_32.png</key>
+            <key>32.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{196,261},{64,64}}</string>
+                <string>{{39,277},{34,40}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{34,40}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{34,40}</string>
             </dict>
-            <key>Sonic_33.png</key>
+            <key>33.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{261,261},{64,64}}</string>
+                <string>{{73,277},{34,43}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{34,43}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{34,43}</string>
             </dict>
-            <key>Sonic_34.png</key>
+            <key>34.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{326,261},{64,64}}</string>
+                <string>{{107,277},{20,44}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{20,44}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{20,44}</string>
             </dict>
-            <key>Sonic_35.png</key>
+            <key>35.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{391,261},{64,64}}</string>
+                <string>{{0,321},{40,28}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{40,28}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{40,28}</string>
             </dict>
-            <key>Sonic_36.png</key>
+            <key>36.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1,326},{64,64}}</string>
+                <string>{{40,321},{28,48}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{28,48}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{28,48}</string>
             </dict>
-            <key>Sonic_37.png</key>
+            <key>37.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{66,326},{64,64}}</string>
+                <string>{{68,321},{29,39}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{29,39}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{29,39}</string>
             </dict>
-            <key>Sonic_38.png</key>
+            <key>38.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{131,326},{64,64}}</string>
+                <string>{{97,321},{30,35}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{30,35}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{30,35}</string>
             </dict>
-            <key>Sonic_39.png</key>
+            <key>39.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{196,326},{64,64}}</string>
+                <string>{{0,369},{38,24}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{38,24}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{38,24}</string>
             </dict>
-            <key>Sonic_40.png</key>
+            <key>40.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{261,326},{64,64}}</string>
+                <string>{{38,369},{38,24}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{38,24}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{38,24}</string>
             </dict>
-            <key>Sonic_41.png</key>
+            <key>41.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{326,326},{64,64}}</string>
+                <string>{{76,369},{27,37}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{27,37}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{27,37}</string>
             </dict>
-            <key>Sonic_42.png</key>
+            <key>42.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{391,326},{64,64}}</string>
+                <string>{{0,406},{29,34}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{29,34}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{29,34}</string>
             </dict>
-            <key>Sonic_43.png</key>
+            <key>43.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1,391},{64,64}}</string>
+                <string>{{29,406},{26,26}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{26,26}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{26,26}</string>
             </dict>
-            <key>Sonic_44.png</key>
+            <key>44.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{66,391},{64,64}}</string>
+                <string>{{55,406},{28,32}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{28,32}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{28,32}</string>
             </dict>
-            <key>Sonic_45.png</key>
+            <key>45.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{131,391},{64,64}}</string>
+                <string>{{83,406},{26,29}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{26,29}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{26,29}</string>
             </dict>
-            <key>Sonic_46.png</key>
+            <key>46.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{196,391},{64,64}}</string>
+                <string>{{0,440},{29,35}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{29,35}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{29,35}</string>
             </dict>
-            <key>Sonic_47.png</key>
+            <key>47.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{261,391},{64,64}}</string>
+                <string>{{29,440},{31,36}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{31,36}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{31,36}</string>
             </dict>
-            <key>Sonic_48.png</key>
+            <key>48.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{326,391},{64,64}}</string>
+                <string>{{60,440},{26,36}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{26,36}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{26,36}</string>
             </dict>
-            <key>Sonic_49.png</key>
+            <key>49.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{391,391},{64,64}}</string>
+                <string>{{86,440},{31,32}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{31,32}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{31,32}</string>
             </dict>
-            <key>Sonic_50.png</key>
+            <key>50.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1,456},{64,64}}</string>
+                <string>{{0,476},{29,31}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{29,31}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{29,31}</string>
             </dict>
-            <key>Sonic_51.png</key>
+            <key>51.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{66,456},{64,64}}</string>
+                <string>{{29,476},{28,33}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{28,33}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{28,33}</string>
             </dict>
-            <key>Sonic_52.png</key>
+            <key>52.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{131,456},{64,64}}</string>
+                <string>{{57,476},{29,34}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
+                <string>{{0,0},{29,34}}</string>
                 <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_53.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{196,456},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_54.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{261,456},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_55.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{326,456},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_56.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{391,456},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_57.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1,521},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_58.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{66,521},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_59.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{131,521},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_60.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{196,521},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_61.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{261,521},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_62.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{326,521},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_63.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{391,521},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_64.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1,586},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_65.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{66,586},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_66.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{131,586},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_67.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{196,586},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_68.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{261,586},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_69.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{326,586},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_70.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{391,586},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_71.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1,651},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_72.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{66,651},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_73.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{131,651},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_74.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{196,651},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_75.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{261,651},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_76.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{326,651},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_77.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{391,651},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_78.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1,716},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_79.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{66,716},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_80.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{131,716},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_81.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{196,716},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_82.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{261,716},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_83.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{326,716},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_84.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{391,716},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_85.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1,781},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_86.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{66,781},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
-            </dict>
-            <key>Sonic_87.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{131,781},{64,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,64}}</string>
-                <key>sourceSize</key>
-                <string>{64,64}</string>
+                <string>{29,34}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -1143,9 +688,9 @@
             <key>realTextureFileName</key>
             <string>sonic.png</string>
             <key>size</key>
-            <string>{512,1024}</string>
+            <string>{127,510}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:9deca07906abc493f9233fb425587422$</string>
+            <string>$TexturePacker:SmartUpdate:56589aa31463daf19c9255e3a147a362$</string>
             <key>textureFileName</key>
             <string>sonic.png</string>
         </dict>
