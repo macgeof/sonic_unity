@@ -11,7 +11,7 @@ public class Walk : State
 		maximumHorizontal = 4.0f;
 		minimumVertical = 0f;
 		maximumVertical = 0f;
-		horizontalDecay = 0.2f;
+		horizontalDecay = 0.95f;
 	}
 	
 	public override  void Enter(Entity __owner, float __timeDelay = 0.0f)

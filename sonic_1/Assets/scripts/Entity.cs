@@ -62,8 +62,14 @@ public class Entity : MonoBehaviour
 	
 	public Vector2 Motion
 	{
-		get { return motion;}
-		set { motion = value;}
+		get
+		{
+			return motion;
+		}
+		set
+		{
+			motion = value;
+		}
 	}
 	
 	public bool PlayerControlled

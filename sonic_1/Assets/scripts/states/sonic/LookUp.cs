@@ -5,7 +5,13 @@ using System;
 public class LookUp : State
 {
 
-	public LookUp() { }
+	public LookUp()
+	{	
+		minimumHorizontal = 0f;
+		maximumHorizontal = 0f;
+		minimumVertical = 1f;
+		maximumVertical = 1.1f;
+	}
 	
 	public override  void Enter(Entity __owner, float __timeDelay = 0.0f)
 	{

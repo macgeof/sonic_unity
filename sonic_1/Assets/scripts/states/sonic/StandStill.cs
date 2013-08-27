@@ -55,7 +55,7 @@ public class StandStill : State
 			return;
 		}
 		int chance = probability.Next(100);
-		if (chance >= 99 && timeInState > minimumTimeInState)
+		if (chance >= 99.9 && timeInState > minimumTimeInState)
 		{
 			Debug.Log("StandStill.Execute() : changing state to anim");
 			sonic = __owner as Sonic;
@@ -64,7 +64,7 @@ public class StandStill : State
 			return;
 		}
 		chance = probability.Next(100);
-		if (chance >= 99 && timeInState > minimumTimeInState)
+		if (chance >= 99.99 && timeInState > minimumTimeInState)
 		{
 			Debug.Log("StandStill.Execute() : changing state to bored");
 			sonic = __owner as Sonic;

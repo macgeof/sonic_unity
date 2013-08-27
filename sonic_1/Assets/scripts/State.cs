@@ -5,11 +5,11 @@ public class State
 {
 	protected float timeInState = 0.0f;
 	protected float minimumTimeInState = 0.0f;
-	protected float horizontalDecay;
-	protected float minimumHorizontal;
-	protected float maximumHorizontal;
-	protected float minimumVertical;
-	protected float maximumVertical;
+	protected float horizontalDecay = 0f;
+	protected float minimumHorizontal = 0f;
+	protected float maximumHorizontal = 0f;
+	protected float minimumVertical = 0f;
+	protected float maximumVertical = 0f;
 	
 	public float MinimumHorizontal
 	{
@@ -71,7 +71,6 @@ public class State
 			{
 				float currentHorizontal = Input.GetAxis("Horizontal");
 				float currentVertical = Input.GetAxis("Vertical");
-				Debug.Log("BaseState.Execute : currentHorizontal = " + currentHorizontal + " : currentVertical = " + currentVertical);
 				Vector2 motion = __owner.Motion;
 				motion.x += currentHorizontal;
 				if (currentHorizontal == 0f)
@@ -80,17 +79,26 @@ public class State
 					{
 						case true :
 							if (motion.x > maximumHorizontal) motion.x = maximumHorizontal;
-							motion.x -= horizontalDecay;
+							motion.x *= horizontalDecay;
 							if (motion.x < 0) motion.x = 0;
 							break;
 						case false :
 							if (motion.x < -maximumHorizontal) motion.x = -maximumHorizontal;
-							motion.x += horizontalDecay;
+							motion.x *= horizontalDecay;
 							if (motion.x > 0) motion.x = 0;
 							break;
 					}
 				}
 				motion.y += currentVertical;
+//				switch (motion.y > 0f)
+//				{
+//					case true :
+//						motion.y = 0f;
+//						break;
+//					case false :
+//						if (motion.y < -maximumVertical) motion.y = -maximumVertical;
+//						break;
+//				}
 				__owner.Motion = motion;
 				break;
 			}

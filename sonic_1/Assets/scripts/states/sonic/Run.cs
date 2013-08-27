@@ -8,10 +8,10 @@ public class Run : State
 	{
 		minimumTimeInState = 2.0f;
 		minimumHorizontal = 4.0f;
-		maximumHorizontal = 8.0f;
+		maximumHorizontal = 20.0f;
 		minimumVertical = 0f;
 		maximumVertical = 0f;
-		horizontalDecay = 0.6f;
+		horizontalDecay = 0.8f;
 	}
 	
 	public override  void Enter(Entity __owner, float __timeDelay = 0.0f)

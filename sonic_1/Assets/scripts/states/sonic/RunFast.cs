@@ -6,11 +6,11 @@ public class RunFast : State
 {
 	public RunFast()
 	{
-		minimumHorizontal = 8.0f;
-		maximumHorizontal = 8.0f;
+		minimumHorizontal = 20.0f;
+		maximumHorizontal = 22.1f;
 		minimumVertical = 0f;
 		maximumVertical = 0f;
-		horizontalDecay = 1f;
+		horizontalDecay = 0.7f;
 	}
 	
 	public override  void Enter(Entity __owner, float __timeDelay = 0.0f)
