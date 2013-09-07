@@ -35,9 +35,18 @@ public class Entity : MonoBehaviour
 		_update(__timeDelay);
 	}
 	
+	public void Update()
+	{
+		//do nothing
+	}
+	
 	protected void _update (float __timeDelay)
 	{
-//		Debug.Log("Entity._update : " + id + " : " + name);
+		float __positionX = transform.position.x + motion.x;
+		float __positionY = transform.position.y + motion.y;
+		Vector3 __newPosition = new Vector3(__positionX, __positionY, 1f);
+		transform.position = __newPosition;
+		Debug.Log("Entity.doStateUpdate : " + id + " : " + name + " : x = " + transform.position.x + ", y = " + transform.position.y);
 	}
 	
 	public StateEngine StateEngine()

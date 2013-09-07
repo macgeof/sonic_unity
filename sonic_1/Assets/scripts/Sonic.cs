@@ -27,10 +27,5 @@ public class Sonic : Entity
 		StateEngine().Update(__timeDelay);
 		base._update(__timeDelay);
 	}
-	
-	public void Update()
-	{
-		//Debug.Log("Sonic updating : " + Input.GetAxis("Horizontal"));
-	}
 }
 

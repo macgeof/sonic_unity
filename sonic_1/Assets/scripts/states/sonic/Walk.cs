@@ -8,7 +8,7 @@ public class Walk : State
 	{
 		minimumTimeInState = 2.0f;
 		minimumHorizontal = 0.01f;
-		maximumHorizontal = 4.0f;
+		maximumHorizontal = 10.0f;
 		minimumVertical = 0f;
 		maximumVertical = 0f;
 		horizontalDecay = 0.95f;
@@ -33,7 +33,7 @@ public class Walk : State
 	{
 		base.Execute(__owner, __timeDelay);
 		Vector2 motion = __owner.Motion;
-		Debug.Log("Walk.Execute() : " + __owner.id + " :  motion x = " + motion.x);
+//		Debug.Log("Walk.Execute() : " + __owner.id + " :  motion x = " + motion.x);
 		if ((motion.x >= 0 && motion.x < minimumHorizontal) || (motion.x <= 0 && motion.x > -minimumHorizontal))
 		{
 			Sonic sonic = __owner as Sonic;

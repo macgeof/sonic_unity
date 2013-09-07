@@ -34,6 +34,7 @@ public class Main : MonoBehaviour
 //		GameObject.DestroyImmediate(tempsonic);
 		bool added = entityManager.addEntity(sonic);
 		Debug.Log("start : " + added + " : sonic id = " + sonic.id);
+		OT.view.movementTarget = sonic.relatedGameObject;
 	}
 	
 	// Update is called once per frame

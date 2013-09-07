@@ -6,8 +6,8 @@ public class RunFast : State
 {
 	public RunFast()
 	{
-		minimumHorizontal = 20.0f;
-		maximumHorizontal = 22.1f;
+		minimumHorizontal = 50.0f;
+		maximumHorizontal = 60.1f;
 		minimumVertical = 0f;
 		maximumVertical = 0f;
 		horizontalDecay = 0.7f;
@@ -32,7 +32,7 @@ public class RunFast : State
 	{
 		base.Execute(__owner, __timeDelay);
 		Vector2 motion = __owner.Motion;
-		Debug.Log("RunFast.Execute() : " + __owner.id + " :  motion x = " + motion.x);
+//		Debug.Log("RunFast.Execute() : " + __owner.id + " :  motion x = " + motion.x);
 		if ((motion.x >= 0 && motion.x < minimumHorizontal) || (motion.x <= 0 && motion.x > -minimumHorizontal))
 		{
 			Sonic sonic = __owner as Sonic;

@@ -7,11 +7,11 @@ public class Run : State
 	public Run()
 	{
 		minimumTimeInState = 2.0f;
-		minimumHorizontal = 4.0f;
-		maximumHorizontal = 20.0f;
+		minimumHorizontal = 10.0f;
+		maximumHorizontal = 50.0f;
 		minimumVertical = 0f;
 		maximumVertical = 0f;
-		horizontalDecay = 0.8f;
+		horizontalDecay = 0.95f;
 	}
 	
 	public override  void Enter(Entity __owner, float __timeDelay = 0.0f)
@@ -33,7 +33,7 @@ public class Run : State
 	{
 		base.Execute(__owner, __timeDelay);
 		Vector2 motion = __owner.Motion;
-		Debug.Log("Run.Execute() : " + __owner.id + " :  motion x = " + motion.x);
+//		Debug.Log("Run.Execute() : " + __owner.id + " :  motion x = " + motion.x);
 		if ((motion.x >= 0 && motion.x < minimumHorizontal) || (motion.x <= 0 && motion.x > -minimumHorizontal))
 		{
 			Sonic sonic = __owner as Sonic;
